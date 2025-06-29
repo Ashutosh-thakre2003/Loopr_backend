@@ -11,7 +11,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://loopr-mu.vercel.app", "https://loopr-d4h0wtnt4-ashutoshs-projects-e863d065.vercel.app", 
+    origin: "https://loopr-d4h0wtnt4-ashutoshs-projects-e863d065.vercel.app", 
     credentials: true,
   })
 );
